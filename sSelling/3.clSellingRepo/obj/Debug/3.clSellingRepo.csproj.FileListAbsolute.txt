@@ -1,0 +1,14 @@
+D:\sSelling\3.clSellingRepo\bin\Debug\3.clSellingRepo.dll
+D:\sSelling\3.clSellingRepo\bin\Debug\3.clSellingRepo.pdb
+D:\sSelling\3.clSellingRepo\bin\Debug\1.clSellingModel.dll
+D:\sSelling\3.clSellingRepo\bin\Debug\2.SellingView.dll
+D:\sSelling\3.clSellingRepo\bin\Debug\EntityFramework.dll
+D:\sSelling\3.clSellingRepo\bin\Debug\1.clSellingModel.pdb
+D:\sSelling\3.clSellingRepo\bin\Debug\2.SellingView.pdb
+D:\sSelling\3.clSellingRepo\bin\Debug\EntityFramework.xml
+D:\sSelling\3.clSellingRepo\obj\Debug\3.clSellingRepo.csprojResolveAssemblyReference.cache
+D:\sSelling\3.clSellingRepo\obj\Debug\3.clSellingRepo.dll
+D:\sSelling\3.clSellingRepo\obj\Debug\3.clSellingRepo.pdb
+D:\sSelling\3.clSellingRepo\bin\Debug\3.clSellingRepo.dll.config
+D:\sSelling\3.clSellingRepo\bin\Debug\EntityFramework.SqlServer.dll
+D:\sSelling\3.clSellingRepo\bin\Debug\EntityFramework.SqlServer.xml

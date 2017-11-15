@@ -1,0 +1,5 @@
+D:\sSelling\2.SellingView\bin\Debug\2.SellingView.dll
+D:\sSelling\2.SellingView\bin\Debug\2.SellingView.pdb
+D:\sSelling\2.SellingView\obj\Debug\2.SellingView.csprojResolveAssemblyReference.cache
+D:\sSelling\2.SellingView\obj\Debug\2.SellingView.dll
+D:\sSelling\2.SellingView\obj\Debug\2.SellingView.pdb

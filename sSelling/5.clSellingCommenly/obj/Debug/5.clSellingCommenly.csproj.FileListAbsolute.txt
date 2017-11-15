@@ -1,0 +1,5 @@
+D:\sSelling\5.clSellingCommenly\bin\Debug\5.clSellingCommenly.dll
+D:\sSelling\5.clSellingCommenly\bin\Debug\5.clSellingCommenly.pdb
+D:\sSelling\5.clSellingCommenly\obj\Debug\5.clSellingCommenly.csprojResolveAssemblyReference.cache
+D:\sSelling\5.clSellingCommenly\obj\Debug\5.clSellingCommenly.dll
+D:\sSelling\5.clSellingCommenly\obj\Debug\5.clSellingCommenly.pdb

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<_2.SellingView.ctblSellingDetailView>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table" id="SellingDetail">
+    <thead>
+
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tblSellingDetailID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ItemPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubTotal)
+        </th>
+        <th></th>
+    </tr>
+    </thead>
+
+    <tbody>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tblSellingDetailID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ItemPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SubTotal)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Invoice }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Invoice }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Invoice })
+        </td>
+    </tr>
+}
+
+    </tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $('#SellingDetail').dataTable();
+    });
+</script>
